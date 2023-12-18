@@ -4,7 +4,7 @@ TÜRKÇE
 
 2-) Flophy Botun hizmetini kötüye Kullanamak/Komutlarını Spamlamak/Hatalardan yararlanmak Flophy Bot üzerinden kalıcı yasaklanmanıza sebep olur.
 
-3-) Hiçbir çekinme duymadan https://discord.gg/cZcsZtjteU destek sunucusuna gelip soru sorabilirsiniz.
+3-) Hiçbir çekinme duymadan https://discord.gg/3w7uUuazyn destek sunucusuna gelip soru sorabilirsiniz.
 
 Not: Bu maddeler herhangi bir gün her an değiştirilebilir.
 
@@ -15,6 +15,6 @@ ENGLISH
 
 2-) Abusing the Flophy Bot service/spamming its commands/ exploiting its errors will result in a permanent ban of Flophy.
 
-3-) You can come to https://discord.gg/cZcsZtjteU support server and ask questions without any hesitation.
+3-) You can come to https://discord.gg/3w7uUuazyn support server and ask questions without any hesitation.
 
 Note: These items can be changed any day at any time.
